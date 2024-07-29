@@ -2,6 +2,13 @@
 
 A simple HTTP client wrapper around Axios with automatic retries, caching, and request/response logging.
 
+## Features
+
+Easy-to-use API for making GET, POST, PUT, DELETE requests.
+Automatic retries on failed requests.
+Caching of responses for improved performance.
+Request and response logging for debugging.
+
 ## Installation
 
 ```sh
